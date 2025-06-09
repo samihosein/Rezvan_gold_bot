@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: rezvan-gold-bot
+    env: python
+    buildCommand: ""
+    startCommand: python main.py
